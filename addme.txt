@@ -1,2 +1,6 @@
 tian jia le liang ge xin wen jian
+<<<<<<< HEAD
 tian jia di er hang
+=======
+tian jia di er hang
+>>>>>>> feature1
